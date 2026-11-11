@@ -1,0 +1,16 @@
+logging:
+  pattern:
+    console: ${CONSOLE_LOG_PATTERN:%green(%d{HH:mm:ss.SSS}) %blue(%-5level) %red([%thread]) %yellow(%logger{15}) - %cyan(%msg%n)}
+
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Zeeshan Tech loan related local APIs "
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john@zeeshantech.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345

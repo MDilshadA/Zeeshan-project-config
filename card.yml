@@ -1,0 +1,16 @@
+logging:
+  pattern:
+    console: ${CONSOLE_LOG_PATTERN:%green(%d{HH:mm:ss.SSS}) %blue(%-5level) %red([%thread]) %yellow(%logger{15}) - %cyan(%msg%n)}
+
+
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to Zeeshan tech cards related local APIs "
+  contactDetails:
+    name: "Dragos Lech - Developer"
+    email: "dragos@zeeshanTech.com"
+  onCallSupport:
+    - (412) 419-3491
+    - (915) 382-1932

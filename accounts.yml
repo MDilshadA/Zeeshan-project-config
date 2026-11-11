@@ -8,7 +8,7 @@ build:
 accounts:
   message: "Welcome to Zeeshan tech accounts related local APIs "
   contactDetails:
-    name: "John Doe - Developer"
+    name: "John Doe - JAVA Developer"
     email: "{cipher}572bce740fa44fcbee45987ab527c823904eada5e5adeb179600a31317d64755b0e91d3fe4aae7ace2051e2b56ec6610"
   onCallSupport:
     - (555) 555-1234

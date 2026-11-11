@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to Zeeshan Tech loans related prod APIs "
+  contactDetails:
+    name: "Mayur Palit - Product Owner"
+    email: "aishwarya@zeeshantech.com"
+  onCallSupport:
+    - (453) 392-4829
+    - (236) 203-0384

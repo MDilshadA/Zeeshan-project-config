@@ -6,7 +6,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Zeeshan tech accounts related local APIs Testing"
+  message: "Welcome to Zeeshan tech accounts related local APIs"
   contactDetails:
     name: "John Doe - JAVA Developer"
     email: "{cipher}572bce740fa44fcbee45987ab527c823904eada5e5adeb179600a31317d64755b0e91d3fe4aae7ace2051e2b56ec6610"

@@ -6,7 +6,7 @@ logging:
 build:
   version: "3.0"
 
-accounts:
+loans:
   message: "Welcome to Zeeshan Tech loan related local APIs Test"
   contactDetails:
     name: "John Doe - Developer"

@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 loans:
-  message: "Welcome to Zeeshan tech loans related QA APIs"
+  message: "Welcome to Zeeshan tech loans related QA APIs testing"
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "smitha@zeeshantech.com"

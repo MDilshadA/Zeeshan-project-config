@@ -7,7 +7,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to Zeeshan Tech loan related local APIs Test"
+  message: "Welcome to Zeeshan Tech loan related local APIs Testing"
   contactDetails:
     name: "John Doe - Developer"
     email: "john@zeeshantech.com"

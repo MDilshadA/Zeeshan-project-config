@@ -5,7 +5,7 @@ logging:
 build:
   version: "3.0"
 
-accounts:
+account:
   message: "Welcome to Zeeshan tech accounts related local -APIs"
   contactDetails:
     name: "John Doe - JAVA Developer"

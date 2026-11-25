@@ -4,7 +4,7 @@ logging:
   level:
     com:
       zeeshan:
-        account: INFO
+        account: DEBUG
 
 build:
   version: "3.0"
